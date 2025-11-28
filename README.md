@@ -17,9 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <div id="badges">
-  <a href="https://linkedin.com/in/laveenachhangani77">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+ 
 
   <a href="https://www.hackerrank.com/laveenachhangan1?hr_r=1">
    <img src= "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
