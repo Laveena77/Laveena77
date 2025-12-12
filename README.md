@@ -22,6 +22,11 @@
   <a href="https://www.hackerrank.com/laveenachhangan1?hr_r=1">
    <img src= "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
+
+<a href="https://www.linkedin.com/in/laveenachhangani77/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+</a>
+
   
 </div>
 
