@@ -10,7 +10,7 @@
 
 💞️ I’m looking to collaborate on projects<br/>
 
-🌱 I’m currently learning **Springboot,PHP**
+🌱 I’m currently learning **Node.js, Express, and MongoDB** to enhance my backend development skills
 
 📫 How to reach me **laveenachhangani78@gmail.com**
 
@@ -40,7 +40,5 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" width="40" height="40"/> </a>
    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laveena77&show_icons=true&locale=en&layout=compact" alt="laveena77" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laveena77&show_icons=true&locale=en" alt="laveena77" /></p>
 
